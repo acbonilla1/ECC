@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1001,
+        "user": "acbonilla1",
+        "category": "Art",
+        "likes": 120,
+        "comments": {
+            "awesomeguy": "Cool!",
+            "Robotzz2": "Awesome!",
+        },
+        "stickerComments": {
+            "animallover1": "hands.sparkles.fill",
+            "greenRobin3": "face.smiling.fill",
+        },
+
+        "userImageName": "exuser_4",
+        "date": "7/17/23",
+        "description": "This is a cool art piece I made yesterday!!!",
+        "postImageName": "artImage_1"
+    },
+    {
+        "id": 1002,
+        "user": "animallover1",
+        "category": "Art",
+        "likes": 121,
+        "comments": {
+            "awesomeguy": "Wow!",
+            "acbonilla1": "Awesome!"
+        },
+        "stickerComments": {
+            
+        },
+        "userImageName": "exuser_2",
+        "date": "7/17/23",
+        "description": "One photograph from my recent gallery!",
+        "postImageName": "artImage_2"
+    },
+    {
+        "id": 1003,
+        "user": "Robotzz2",
+        "category": "Tech",
+        "likes": 34,
+        "comments": {
+            "animallover1": "Woah!",
+            "acbonilla1": "Cool!"
+        },
+        "stickerComments": {
+            
+        },
+        "userImageName": "exuser_3",
+        "date": "7/17/23",
+        "description": "I constructed my first computer today!",
+        "postImageName": "techImage_1"
+    },
+    {
+        "id": 1004,
+        "user": "BlueSunflower2",
+        "category": "Music",
+        "likes": 86,
+        "comments": {
+            "Robotzz2": "Nice!",
+        },
+        "stickerComments": {
+            "acbonilla1": "hands.sparkles.fill",
+        },
+        "userImageName": "exuser_7",
+        "date": "7/20/23",
+        "description": "Yesterday I had my third concert of the month! Turnout was great!",
+        "postImageName": "musicImage_1"
+    },
+    {
+        "id": 1005,
+        "user": "Trainz_",
+        "category": "Food",
+        "likes": 31,
+        "comments": {
+            "Robotzz2": "Cool!",
+        },
+        "stickerComments": {
+            "acbonilla1": "hands.sparkles.fill",
+        },
+        "userImageName": "exuser_8",
+        "date": "3/14/23",
+        "description": "Today I cooked for my family's get together!",
+        "postImageName": "foodImage_1"
+    },
+]
